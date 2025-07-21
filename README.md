@@ -153,3 +153,4 @@ The UI automatically discovers Claude Code projects from `~/.claude/projects/` a
  
  
  
+ 
